@@ -7,4 +7,4 @@ It supports basic operations: addition, subtraction, multiplication, and divisio
 ---
 
 ## For Run
-Clone this repository:   git clone https://github.com/parmarvarshil/CalculatorApp.git
+  Clone this repository:   git clone https://github.com/parmarvarshil/CalculatorApp.git

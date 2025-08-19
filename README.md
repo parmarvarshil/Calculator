@@ -6,7 +6,5 @@ It supports basic operations: addition, subtraction, multiplication, and divisio
 
 ---
 
-##  How to Run
-
-1. Clone this repository:
-   git clone https://github.com/parmarvarshil/CalculatorApp.git
+## For Run
+Clone this repository:   git clone https://github.com/parmarvarshil/CalculatorApp.git
